@@ -1,0 +1,67 @@
+.cover {
+    height: 400px;
+	background-image: url(img/portada.jpg);
+	color: white;
+	background-size: 2000px;
+	background-position: center;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+}
+
+.hola{
+  color: white;
+  size=40;
+}
+
+.hello{
+  font: Arial;
+  color: white;
+  background-color: green;
+}
+
+.bonjour{
+  font: Times;
+  color: white;
+  font-size: 40;
+}
+
+.verticalLine {
+  border-left: thick solid #FFFFFF;
+  color: white;
+  SIZE: 15;
+}
+
+.hr {
+  height: 3px;
+  background-color: white;
+}
+
+.Porquemedejastedequerer{
+  color: red;
+}
+
+.yonaguni{
+  color:Cyan;
+}
+
+.stay{
+  color:purple;
+}
+
+.original{
+  color:Blue;
+}
+
+.jinn{
+  color:orange;
+}
+
+.ohm {
+    height: 400px;
+	background-image: url(img/ohm.jpg);
+	color: white;
+	background-size: 2000px;
+	background-position: center;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+}
